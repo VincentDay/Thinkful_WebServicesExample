@@ -35,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		618F3C521BA0D7E600AD3B34 /* bridge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bridge.h; sourceTree = "<group>"; };
 		61A35D9B1BA09E630055DF59 /* AFHTTPRequestOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPRequestOperation.h; sourceTree = "<group>"; };
 		61A35D9C1BA09E630055DF59 /* AFHTTPRequestOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPRequestOperation.m; sourceTree = "<group>"; };
 		61A35D9D1BA09E630055DF59 /* AFHTTPRequestOperationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPRequestOperationManager.h; sourceTree = "<group>"; };
@@ -54,7 +55,6 @@
 		61A35DAB1BA09E630055DF59 /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLResponseSerialization.m; sourceTree = "<group>"; };
 		61A35DAC1BA09E630055DF59 /* AFURLSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLSessionManager.h; sourceTree = "<group>"; };
 		61A35DAD1BA09E630055DF59 /* AFURLSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLSessionManager.m; sourceTree = "<group>"; };
-		61A35DB71BA09F770055DF59 /* bridge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bridge.h; sourceTree = "<group>"; };
 		61DFD2D01BA09711009D0526 /* WebServicesExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WebServicesExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		61DFD2D41BA09711009D0526 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		61DFD2D51BA09711009D0526 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -115,7 +115,7 @@
 		61DFD2C71BA09711009D0526 = {
 			isa = PBXGroup;
 			children = (
-				61A35DB71BA09F770055DF59 /* bridge.h */,
+				618F3C521BA0D7E600AD3B34 /* bridge.h */,
 				61A35D9A1BA09E630055DF59 /* AFNetworking */,
 				61DFD2D21BA09711009D0526 /* WebServicesExample */,
 				61DFD2E81BA09711009D0526 /* WebServicesExampleTests */,
